@@ -1,6 +1,6 @@
 
 export default function Home() {
   return (
-    <h1>Yo bro</h1>
+    <h1 className="text-2xl text-center">Yo bro</h1>
   );
 }
